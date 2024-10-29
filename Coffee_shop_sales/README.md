@@ -80,7 +80,7 @@ From the analysis some of the patterns and relationships are found and presented
 * From the dashboard the most ordered product is **Americano with milk** which is **268** orders and the least ordered product is **Coca** which is **35** orders.
 * The product that generated more revenue is **Latte** which is **$9009** and the product generated least revenue is **Espresso** which is **$1101.**
 * On average for five months **Tuesday** of the week has more orders which is **185**. The other days of the week has more or less same orders on each day.
-* On basis of hour of the day **10:00 and 11:00** being the busiest hour by having orders over **200**, on the evening **19:00** by having orders of **96**. Early morning and late night have low orders.
+* On basis of hour of the day **10:00 to 11:00** being the busiest hour by having orders over **200**, on the evening **19:00** by having orders of **96**. Early morning and late night have low orders.
 * Revenue by month **May** has high revenue **$9063** and **April** has low revenue **$6721**.
 * Americano with milk is the most ordered product but Latte has generated more revenue.
 
