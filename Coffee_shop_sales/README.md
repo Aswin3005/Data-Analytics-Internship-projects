@@ -46,7 +46,15 @@ In this step of data analysis, Pivot tables are used to generate some useful ins
 * Transaction type
 
 ![table](https://github.com/user-attachments/assets/67d9943b-dac2-4f13-a419-9323a725b4b8)
-      
+     
 From the pivot tables created charts are compelled with the slicer for further navigation. To present the charts in a more appealing way for the user to understand the insights that have been obtained from the analysis.
 
 ![charts](https://github.com/user-attachments/assets/01bf15e4-8043-4469-aa5e-b851568d5ae1)
+
+### Data visualization
+
+From the analysis some of the patterns and relationships are found and presented in a visual format which will be easier to analyze the pattern. The visualization shows the revenue, transactions and total orders.
+* The total revenue of the shop in the five months is $37,509.
+* The total orders is 1133.
+* From the transaction type 92% of transactions are done by card only.
+
