@@ -72,7 +72,7 @@ From the pivot tables created charts are compelled with the slicer for further n
 
 From the analysis some of the patterns and relationships are found and presented in a visual format which will be easier to analyze the pattern. The visualization shows the revenue, transactions and total orders.
 * The total revenue of the shop in the five months is **$37509**.
-* The total orders is **1133**.
+* The total number of orders is **1133**.
 * From the transaction type **92%** of transactions are done by card only.
 
 ![dashboard](https://github.com/user-attachments/assets/1fd30253-c229-48e8-8753-0d953c0e9031)
