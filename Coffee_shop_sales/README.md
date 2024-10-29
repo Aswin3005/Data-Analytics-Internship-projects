@@ -21,17 +21,33 @@ It is crucial that the data should be clean for the analysis
 
 Revenue is taken from the money column
 
-For month```Month = MONTH(A2)```
+For month
+```
+Month = MONTH(A2)
+```
 
-For Month name```Month name = TEXT(A2,"mmmm")```
+For Month name
+```
+Month name = TEXT(A2,"mmmm")
+```
 
-For Weekday```Weekday = WEEKDAY(A2,2)```
+For Weekday
+```
+Weekday = WEEKDAY(A2,2)
+```
 
-For Weekday name```Weekday name = TEXT(A2,"dddd")```
+For Weekday name
+```
+Weekday name = TEXT(A2,"dddd")
+```
 
-For Hour```Hour = HOUR(B2)```
+For Hour
+```
+Hour = HOUR(B2)
+```
 
 Temp transaction is to find the total count of orders
+
 
 ![Clean](https://github.com/user-attachments/assets/433a4cb0-24ab-49db-bdd3-988c6d09a8b0)
 
@@ -58,3 +74,6 @@ From the analysis some of the patterns and relationships are found and presented
 * The total orders is 1133.
 * From the transaction type 92% of transactions are done by card only.
 
+![dashboard](https://github.com/user-attachments/assets/1fd30253-c229-48e8-8753-0d953c0e9031)
+
+* From the dashboard 
