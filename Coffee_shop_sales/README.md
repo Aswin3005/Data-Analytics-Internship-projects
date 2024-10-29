@@ -44,5 +44,7 @@ In this step of data analysis, Pivot tables are used to generate some useful ins
 * Number of transaction by **Product Category** and **Revenue**
 * Revenue by **Product category**
 * Transaction type
+
+![table](https://github.com/user-attachments/assets/67d9943b-dac2-4f13-a419-9323a725b4b8)
       
 From the pivot tables created charts are compelled with the slicer for the product category.
