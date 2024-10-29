@@ -1,18 +1,19 @@
 # COFFEE SHOP SALES
 
-## Project introduction:
+## Project introduction
 This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. The goal of analyzing transaction data is to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. The purpose is to optimize inventory management, improve decision-making processes, and find possible cross-selling opportunities.
-## Tool used:
+
+## Tool used
 Microsoft Excel 
 
 Excel is a powerful tool that Data Analysts use to transform raw data into actionable insights, aiding decision-making and business success. Analysts play a detective-like role, identifying patterns and interpreting trends to convey complex data in a straightforward manner.
 
-## Steps involved:
+## Steps involved
 * Data cleaning
 * Data analysis
 * Data visualization
 
-### Data cleaning:
+### Data cleaning
 It is crucial that the data should be clean for the analysis
 * First the duplicate values should be removed,there were no duplicate values found.
 * Secondly the date and time format was changed for the further use, In money column currency format was changed to dollar sign with two decimal values.
@@ -82,3 +83,12 @@ From the analysis some of the patterns and relationships are found and presented
 * On basis of hour of the day **10:00 and 11:00** being the busiest hour by having orders over **200**, on the evening **19:00** by having orders of **96**. Early morning and late night have low orders.
 * Revenue by month **May** has high revenue **$9063** and **April** has low revenue **$6721**.
 * Americano with milk is the most ordered product but Latte has generated more revenue.
+
+## Recommendations
+
+To optimize operational efficiency change in opening hours can make siginificant change, it is evident that sales is very low at 07:00 in the morning and 22:00 at night. Therefore, commencing operation at 08:00 in the morning to 21:00 at night presents a promising solution. This adjustment aligns with consumer demand patterns, ensuring resources are allocated efficiently during peak hours while mitigating unnecessary costs associated with extended evening operations. 
+
+Adding more items to the menu could bring more revenue, as the menu consists of only 8 items. some bakery items and tea would be good start.
+
+## Conclusion
+The Coffee Shop Sales Analysis dashboard provides valuable insights into the sales performance of the coffee shop. By understanding key metrics and trends, the company can make data-driven decisions to enhance sales strategies, improve product offerings, and optimize overall performance.
