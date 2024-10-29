@@ -47,4 +47,6 @@ In this step of data analysis, Pivot tables are used to generate some useful ins
 
 ![table](https://github.com/user-attachments/assets/67d9943b-dac2-4f13-a419-9323a725b4b8)
       
-From the pivot tables created charts are compelled with the slicer for the product category.
+From the pivot tables created charts are compelled with the slicer for further navigation. To present the charts in a more appealing way for the user to understand the insights that have been obtained from the analysis.
+
+
