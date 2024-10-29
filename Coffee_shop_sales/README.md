@@ -33,7 +33,7 @@ For Hour```Hour = HOUR(B2)```
 
 Temp transaction is to find the total count of orders
 
-
+![Clean](https://github.com/user-attachments/assets/433a4cb0-24ab-49db-bdd3-988c6d09a8b0)
 
 ### Data analysis
 
