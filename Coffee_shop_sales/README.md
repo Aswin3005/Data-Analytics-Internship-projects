@@ -49,4 +49,4 @@ In this step of data analysis, Pivot tables are used to generate some useful ins
       
 From the pivot tables created charts are compelled with the slicer for further navigation. To present the charts in a more appealing way for the user to understand the insights that have been obtained from the analysis.
 
-
+![charts](https://github.com/user-attachments/assets/01bf15e4-8043-4469-aa5e-b851568d5ae1)
