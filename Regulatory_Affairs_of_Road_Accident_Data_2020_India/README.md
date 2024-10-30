@@ -2,4 +2,10 @@
 
 ## Project introduction
 
-The purpose of this Project is to analyze road accident data and identify patterns and trends that can help improve road safety.
+In this project, we will be analyzing data related to road accidents, which can be utilized to study accident-prone conditions and also helps understand the factors that influence road fatalities. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and Cause of the accident.
+
+## Tools used
+
+Excel
+
+
