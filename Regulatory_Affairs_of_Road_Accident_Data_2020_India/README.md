@@ -99,4 +99,7 @@ limit 10;
 
 After the analysis, the data is imported to the power bi for the visualization process. The power bi provides with wide range of charts and more it is user friendly.It supports complex data modeling, transformations, and relational mappings. Key aspects include data transformation using Power Query, data modeling with DAX,interactive visualizations, performance handling large datasets, seamless integration with other Microsoft services, and web-based accessibility for sharing reports and dashboards across the organization.
 
+![Dashboard1](https://github.com/user-attachments/assets/31fc2c7b-5d72-45fb-8cf5-b2c2f492cc00)
 
+From the analysis the total number of accidents are 9550
+* From all the cities **Chennai** has the most number of count with **78459** and **Delhi** and **Jabalpur** as second and third places.
