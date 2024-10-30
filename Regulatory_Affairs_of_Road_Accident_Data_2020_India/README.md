@@ -6,6 +6,20 @@ In this project, we will be analyzing data related to road accidents, which can 
 
 ## Tools used
 
-Excel
+**Microsoft Excel**
 
+Excel is a powerful tool that Data Analysts use to transform raw data into actionable insights, aiding decision-making and business success. Analysts play a detective-like role, identifying patterns and interpreting trends to convey complex data in a straightforward manner.
 
+**SQL**
+
+SQL (Structured Query Language) is a powerful tool used in data analysis for querying and manipulating data stored in relational databases. It enables data analysts to access and extract data. SQL allows analysts to retrieve data from different tables within a database, making it accessible for analysis.
+
+**Microsoft PowerBI**
+
+Microsoft Power BI is a business analytics tool that can be used for data analysis to help users visualize data and gain insights. Power BI is designed to be used by business professionals with varying levels of data knowledge. Power BI Data Analysts design, develop, and deploy business analytics dashboards using Power BI.
+
+## Steps involved
+
+* Data cleaning
+* Data analysis
+* Data visualization
