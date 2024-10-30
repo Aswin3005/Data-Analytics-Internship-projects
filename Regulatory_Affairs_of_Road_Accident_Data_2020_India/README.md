@@ -103,3 +103,33 @@ After the analysis, the data is imported to the power bi for the visualization p
 
 From the analysis the total number of accidents are 9550
 * From all the cities **Chennai** has the most number of count with **78459** and **Delhi** and **Jabalpur** as second and third places.
+* The cause categories **Traffic Control,Junction,Traffic Violation,Weather** have the same count **173308** and **Road Features and Impacting Vehicle/Object** has **173284 and 122793.**
+* The severity of the accident has the count as follows,
+    * Minor injury has a count of 179898.
+    * Greviously Injured has a count of 123183.
+    * Persons Killed has a count of 81253.
+* Under catergory **Weather** the count of the conditions are Sunny/Clear has **126904**, Rainy has **15421**, Foggy and Misty has **10326**, Hail/Sleet has **2193** and others are **126904.**
+* The cause subcategory counts are more here are the topp 10 of them
+  
+    |Subcategory|Count|
+    |-----------|-----|
+    |Others|285305|
+    |Sunny/Clear|126904|
+    |Over|123013|
+    |Straight Road|	104223|
+    | Two Wheelers	|54356|
+    | Uncontrolled	|50001|
+    | T-Junction|	23555|
+    | Pedestrian|	22189|
+    | Staggered Junction|	18910|
+    | Cars,Taxis,Vans and LMV |	17263|
+
+## Recommendations
+
+Focus on improving driving in fine weather conditions: As the majority of accidents occur during fine weather conditions, it may be worthwhile to explore ways to improve driver education and awareness during such conditions to help reduce the number of accidents.
+
+Improve road infrastructure in areas with high accident rates: Given that certain geographic areas have higher accident rates, improving road infrastructure in those areas could help reduce the number of accidents.
+
+## Conclusion
+
+Overall, improving road safety requires a multi-faceted approach that involves education, infrastructure, and policy changes. These recommendations are a starting point for improving road safety and should be further explored and tailored to specific geographic areas and the types of accidents that occur.
