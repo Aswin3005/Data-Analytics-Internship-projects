@@ -23,3 +23,14 @@ Microsoft Power BI is a business analytics tool that can be used for data analys
 * Data cleaning
 * Data analysis
 * Data visualization
+
+### Data cleaning
+
+It is crucial for the data to be clean for the analysis
+* Checked for duplicate values, there is no duplicate values found.
+* Checked for relevant data in each column, the count column has some decimal values, round the values with ```=ROUND(E2,0)```
+* Channged some irrelevant fields in cause subcategory column to others.
+* Checked the data contained only relevant data for the analysis.
+* Divided the data into further tables based on the cause category for visualization purpose.
+
+ 
