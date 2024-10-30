@@ -97,4 +97,6 @@ limit 10;
 
 ### Data visualization
 
-After the analysis, the data is imported to the power bi for the visualization process. The power bi provides with wide range of charts and more it is user friendly,
+After the analysis, the data is imported to the power bi for the visualization process. The power bi provides with wide range of charts and more it is user friendly.It supports complex data modeling, transformations, and relational mappings. Key aspects include data transformation using Power Query, data modeling with DAX,interactive visualizations, performance handling large datasets, seamless integration with other Microsoft services, and web-based accessibility for sharing reports and dashboards across the organization.
+
+
