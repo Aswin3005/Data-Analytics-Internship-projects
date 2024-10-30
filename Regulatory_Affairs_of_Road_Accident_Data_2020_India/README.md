@@ -33,4 +33,68 @@ It is crucial for the data to be clean for the analysis
 * Checked the data contained only relevant data for the analysis.
 * Divided the data into further tables based on the cause category for visualization purpose.
 
- 
+ ![clean1](https://github.com/user-attachments/assets/a865da43-f4f1-4bfe-b217-fc079db3762c)
+
+
+ ### Data analysis
+
+ Using MySQL the cleaned data is imported for analysis
+
+ --Check the data
+ ```sql
+SELECT*FROM
+road_accident;
+```
+
+--Total nuber of accidents
+```sql
+SELECT COUNT(ID) AS total_accidents
+FROM road_accident;
+```
+
+--The city with most count
+```sql
+SELECT cities,SUM(Count)
+FROM road_accident
+GROUP BY Cities
+order by sum(Count)desc
+limit 3;
+```
+
+--The category with most count
+```sql
+SELECT Cause_category,SUM(Count)
+FROM road_accident
+GROUP BY Cause_category
+order by sum(Count)desc;
+```
+
+--The severity of the accident
+```sql
+SELECT Outcome_of_Incident,SUM(Count)
+FROM road_accident
+GROUP BY Outcome_of_Incident
+order by sum(Count)desc;
+```
+
+--The accidents happened in weather conditions
+```sql
+SELECT Cause_Subcategory,SUM(Count)
+FROM road_accident
+where cause_category='weather'
+GROUP BY Cause_Subcategory
+order by sum(Count)desc;
+```
+
+--The count of subcategory of accidents
+```sql
+SELECT Cause_Subcategory,SUM(Count)
+FROM road_accident
+GROUP BY Cause_Subcategory
+order by sum(Count)desc
+limit 10;
+```
+
+### Data visualization
+
+After the analysis, the data is imported to the power bi for the visualization process. The power bi provides with wide range of charts and more it is user friendly,
